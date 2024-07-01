@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rama Devagupta
+- 👋 Hi, I’m Rama Devagupta.
 - 👀 I’m interested in bioinformatics.
 - 🌱 I’m currently learning computational biology.
 - 💞️ I’m looking to collaborate on research projects for my students' science fair projects.
